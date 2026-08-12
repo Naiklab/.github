@@ -1,4 +1,10 @@
-# Naik Lab
+<div align="center">
+
+![Naik Lab](https://raw.githubusercontent.com/Naiklab/.github/main/profile/banner.svg)
+
+[![Website](https://img.shields.io/badge/naiklab.com-e62e19?style=for-the-badge&logoColor=white)](https://naiklab.com/)
+
+</div>
 
 Welcome to the GitHub organization of the **[Naik Lab](https://naiklab.com/)**. This page indexes our repositories, organized into **manuscript code** (analysis scripts accompanying our publications) and **pipelines** (reusable workflows for common data types).
 
